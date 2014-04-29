@@ -8,3 +8,12 @@ h1 {
     text-align: center;
 }
 
+#vis {
+  height: 100px;
+}
+
+#vis div {
+  width: 1px;
+  height: 100px;
+  float: left;
+}

@@ -5,6 +5,7 @@
                  [compojure "1.1.6"]
                  [hiccup "1.0.5"]
                  [org.clojure/java.jdbc "0.3.3"]
+                 [clj-time "0.7.0"]
                  [org.xerial/sqlite-jdbc "3.7.2"]
                  [ring-server "0.3.1"]]
   :plugins [[lein-ring "0.8.10"]]
